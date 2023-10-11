@@ -7,7 +7,7 @@ const SpecialMenu = () => (
   <div className='app__specialMenu flex__center section__padding' id='menu'>
     <div className="app__specialMenu-title">
       <SubHeading title="Menu that feets you palatte"/>
-      <h1 className="headtext__cormorant">Today's Special</h1>
+      <h1 className="headtext__cormorant">Tonights's Special</h1>
     </div>
     <div className="app__specialMenu-menu">
       <div className="app_specialMenu-menu_wine flex__Center">
